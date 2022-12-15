@@ -1,0 +1,7 @@
+--hl bin/main.hl
+--dce full
+--main Boot
+--library heaps
+--library hlsdl
+--library deepnightLibs
+--class-path src
