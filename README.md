@@ -1,6 +1,7 @@
 # About
 
 A very basic game template for projects that use *[Haxe](https://haxe.org)* and *[Heaps](https://heaps.io)*
+
 Much of the code is from *[deepnight/gameBase](https://github.com/deepnight/gameBase)*.
 
 # Dependencies
@@ -17,5 +18,5 @@ Much of the code is from *[deepnight/gameBase](https://github.com/deepnight/game
 # Notes
 
 - Has been tested only on Linux & Windows via Hashlink
-- Only `hlsdl` has been used during development, However `hlxd` and `javascript` should work according to *[deepnight/gameBase](https://github.com/deepnight/gameBase)*.
+- Only `hlsdl` has been used during development, However `hldx` and `javascript` should work according to *[deepnight/gameBase](https://github.com/deepnight/gameBase)*.
 - I decided to drop the multiple-languages support for now as it is kind of a hassle to deal with.
